@@ -21,6 +21,10 @@
         <h2>News</h2>
         <p>Le site progresse bien</p>
     </section>
+    
+    <section>
+        <p>ligne de code random</p>
+    </section>
 </div>
     
     
