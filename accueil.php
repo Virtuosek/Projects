@@ -16,6 +16,11 @@
         <h2>Contact Responsable des stocks</h2>
         <p>Juliette : extension 18</p>
     </section>
+    
+    <section>
+        <h2>News</h2>
+        <p>Le site progresse bien</p>
+    </section>
 </div>
     
     
